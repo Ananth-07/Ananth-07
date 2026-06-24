@@ -8,8 +8,10 @@
 - Python
 - SQL
 - Power BI
+- Statistics
 - Excel
 - Machine Learning
+- Deep Learning
 - Git & GitHub
 
 ## Projects
